@@ -1,0 +1,28 @@
+name: Pokemon Go Tips
+favicon: null
+layout_spectrum: 0.13900211895816028
+typography_spectrum: 0.17529747285880148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5704791133757681
+  lightness: 0.5337542311754078
+  saturation: 0.7134669786319137
+  rhythmicContrast: 0.7441080762073398
+purpose: []
